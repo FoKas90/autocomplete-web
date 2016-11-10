@@ -3,11 +3,6 @@ body {
     padding-bottom: 40px;
     background-color: #eee;
 }
-
-.form-add-dictionary .form-add-dictionary-heading {
-    margin-bottom: 10px;
-}
-
 .form-add-dictionary {
     max-width: 500px;
     padding: 15px;
